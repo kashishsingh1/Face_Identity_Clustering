@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Model weights / caches
+*.onnx
+.insightface/
+
+# Data (may contain identifiable photos of real people)
+input/*
+!input/.gitkeep
+data/uploads/*
+!data/uploads/.gitkeep
+
+# Generated output
+output/*
+!output/.gitkeep
+
+# Streamlit
+.streamlit/
+
+# IDE
+.vscode/
+.idea/

@@ -1,0 +1,16 @@
+insightface==1.0.1
+onnxruntime==1.27.0
+numpy==2.5.0
+opencv-python==4.10.0.84
+scikit-learn==1.9.0
+scipy==1.18.0
+hdbscan==0.8.44
+matplotlib==3.11.0
+pandas==3.0.3
+Pillow==12.3.0
+tqdm==4.67.1
+streamlit
+scikit-image
+easydict
+Cython
+requests
